@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Sitio web ALEX</title>
+    <link>http://example.org/page/</link>
+    <description>Recent content in Pages on Sitio web ALEX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2023 10:37:10 +0100</lastBuildDate><atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/page/contacto/</link>
+      <pubDate>Tue, 07 Nov 2023 10:37:10 +0100</pubDate>
+      
+      <guid>http://example.org/page/contacto/</guid>
+      <description>Contacto ¡Gracias por visitar nuestro sitio web! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros.
+Información de Contacto Correo Electrónico: alex@ejemplo.com Teléfono: +1234567890 </description>
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>http://example.org/page/about/</link>
+      <pubDate>Sat, 07 Oct 2023 12:31:47 +0100</pubDate>
+      
+      <guid>http://example.org/page/about/</guid>
+      <description>Estudiante ¡Hola! Soy Alex, estudiante de informática. Me gusta investigar sobre las nuevas tecnologías y aprender sobre desarrollo de software, diseño y más.
+Actualmente, estoy cursando mis estudios en informática en IES Gonzalo Nazareno.
+Si tienes alguna pregunta sobre mis proyectos, habilidades&amp;hellip; No dudes en ponerte en contacto conmigo!
+¡Gracias por visitar mi página!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sitio web ALEX</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Sitio web ALEX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 16:00:06 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Underworld Evolution</title>
+      <link>http://example.org/posts/post2/</link>
+      <pubDate>Sat, 07 Oct 2023 16:00:06 +0100</pubDate>
+      
+      <guid>http://example.org/posts/post2/</guid>
+      <description>Manuel Alejandro Martín Núñez
+UNDERWORLD EVOLUTION Manuel Alejandro Martín Núñez
+Planificación y administración de redes
+ASIR-1 Escenario Sustituir en la infraestructura de red los routers CISCO por máquinas Linux siguiendo el esquema de la figura.
+Como vemos en la siguiente imagen en la infraestructura de red los routers han sido sustituidos por routers Linux.
+Routers Configurar adecuadamente las máquinas Linux para que funcionen como routers.
+Para que las máquinas Linux actúan como routers, deberemos acceder al archivo de configuración /etc/sysctl.</description>
+    </item>
+    
+    <item>
+      <title>Post prueba Markdown</title>
+      <link>http://example.org/posts/post1/</link>
+      <pubDate>Sat, 07 Oct 2023 10:35:24 +0100</pubDate>
+      
+      <guid>http://example.org/posts/post1/</guid>
+      <description>Título del Post Este es un ejemplo de un post que contiene elementos HTML como títulos, listas, párrafos, enlaces e imágenes.
+Listas Lista no ordenada Elemento 1 Elemento 2 Elemento 3 Lista ordenada Primer elemento Segundo elemento Tercer elemento Párrafos Un párrafo es simplemente un bloque de texto. Este es un párrafo de ejemplo.
+Otro párrafo aquí.
+Enlaces Puedes crear enlaces a sitios web externos o a otras páginas de tu sitio:</description>
+    </item>
+    
+  </channel>
+</rss>
