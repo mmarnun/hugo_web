@@ -1,6 +1,6 @@
 ---
 title: "Post prueba Markdown"
-date: 2023-11-07T10:35:24+01:00
+date: 2023-10-07T10:35:24+01:00
 tags: []
 featured_image: ""
 description: ""

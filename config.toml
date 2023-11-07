@@ -20,3 +20,9 @@ theme = "ananke"
     weight = 3
     identifier = "posts"
     url = "/posts/"
+
+[[menu.main]]
+    name = "Sobre mí"
+    weight = 3
+    identifier = "about"
+    url = "/page/about/"

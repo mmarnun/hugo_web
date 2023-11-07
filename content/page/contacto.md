@@ -12,7 +12,5 @@ description: ""
 
 ### Información de Contacto
 
-- **Correo Electrónico:** info@example.com
+- **Correo Electrónico:** alex@ejemplo.com
 - **Teléfono:** +1234567890
-
-### Formulario de Contacto
