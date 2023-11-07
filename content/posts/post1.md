@@ -41,4 +41,4 @@ Puedes crear enlaces a sitios web externos o a otras páginas de tu sitio:
 
 Puedes insertar imágenes en tu post utilizando la etiqueta HTML `img`. Asegúrate de que la imagen esté ubicada en una ruta accesible.
 
-![Ejemplo de imagen](/images/markdown.png)
+![Ejemplo de imagen](/posts/images/markdown.png)
