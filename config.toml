@@ -1,4 +1,22 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Sitio web ALEX'
-theme = 'ananke'
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sitio web ALEX"
+theme = "ananke"
+
+[[menu.main]]
+    name = "Inicio"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
+    name = "Contacto"
+    weight = 2
+    identifier = "contacto"
+    url = "/page/contacto/"
+
+[[menu.main]]
+    name = "Posts"
+    weight = 3
+    identifier = "posts"
+    url = "/posts/"
