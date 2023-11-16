@@ -6,6 +6,6 @@ featured_image: ""
 description: ""
 ---
 
-## Manuel Alejandro Martin Nunez
+## Manuel Alejandro Martín Nuñez
 
 ![Ejemplo de imagen](/page/images/alex.png)
