@@ -4,6 +4,6 @@ git add .
 
 git commit -m "Commit"
 
-git push origin master
+git push
 
 echo "Cambios guardados y desplegados en Render exitosamente."
