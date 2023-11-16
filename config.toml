@@ -26,3 +26,9 @@ theme = "ananke"
     weight = 3
     identifier = "about"
     url = "/page/about/"
+
+[[menu.main]]
+    name = "Prueba: Introducción a la implantación de aplicaciones web"
+    weight = 3
+    identifier = "examen"
+    url = "/page/examen/"

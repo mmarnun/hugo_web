@@ -6,7 +6,16 @@
     <description>Recent content on Sitio web ALEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Nov 2023 10:37:10 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 08:58:38 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba: Introduccion a la implantacion de aplicaciones web</title>
+      <link>http://example.org/page/examen/</link>
+      <pubDate>Thu, 16 Nov 2023 08:58:38 +0100</pubDate>
+      
+      <guid>http://example.org/page/examen/</guid>
+      <description>Manuel Alejandro Martin Nunez </description>
+    </item>
+    
     <item>
       <title>Contacto</title>
       <link>http://example.org/page/contacto/</link>
