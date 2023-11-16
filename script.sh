@@ -1,9 +1,9 @@
 #!/bin/bash
 
-git add .
+git add . >> /dev/null
 
-git commit -m "Commit"
+git commit -m "Commit" >> /dev/null
 
-git push
+git push >> /dev/null
 
 echo "Cambios guardados y desplegados en Render exitosamente."
